@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoboLago/static/css/main.dc4d6ff2.css",
+    "main.js": "/MoboLago/static/js/main.24615dc4.js",
+    "static/js/453.395c2c47.chunk.js": "/MoboLago/static/js/453.395c2c47.chunk.js",
+    "index.html": "/MoboLago/index.html",
+    "main.dc4d6ff2.css.map": "/MoboLago/static/css/main.dc4d6ff2.css.map",
+    "main.24615dc4.js.map": "/MoboLago/static/js/main.24615dc4.js.map",
+    "453.395c2c47.chunk.js.map": "/MoboLago/static/js/453.395c2c47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.24615dc4.js"
+  ]
+}
